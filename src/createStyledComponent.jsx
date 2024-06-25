@@ -3,7 +3,6 @@
 // 3. generate className
 // 4. preprocess style
 // 5. inject style to html head
-// https://medium.com/styled-components/how-styled-components-works-618a69970421
 
 import propTypes from 'prop-types'
 // import * as stylis from 'stylis';
